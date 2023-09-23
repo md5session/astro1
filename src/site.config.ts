@@ -29,7 +29,7 @@ export const menuLinks: Array<{ title: string; path: string }> = [
 		path: "/",
 	},
 	{
-		title: "About3",
+		title: "About",
 		path: "/about/",
 	},
 	{
