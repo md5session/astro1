@@ -1,7 +1,7 @@
 ---
 title: "A Pseudo-random world 
 "
-publishDate: "01 October 2023"
+publishDate: "29 September 2023"
 description: "Welcome to untangle randomness"
 tags: ["example", "blog"]
 ---
