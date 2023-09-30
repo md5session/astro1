@@ -31,6 +31,7 @@ export default {
 				// Add any custom fonts here
 				sans: [...fontFamily.sans],
 				serif: [...fontFamily.serif],
+        ibmplexsans: [...fontFamily.ibmplexsans],
 			},
 			transitionProperty: {
 				height: "height",
