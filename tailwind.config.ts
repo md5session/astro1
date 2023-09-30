@@ -29,9 +29,8 @@ export default {
 			},
 			fontFamily: {
 				// Add any custom fonts here
-				sans: [...fontFamily.sans],
+				sans: [...fontFamily.'IBM Plex Sans'],
 				serif: [...fontFamily.serif],
-        ibmplexsans: [...fontFamily.ibmplexsans],
 			},
 			transitionProperty: {
 				height: "height",
