@@ -29,7 +29,7 @@ export default {
 			},
 			fontFamily: {
 				// Add any custom fonts here
-				sans: [...fontFamily.ibmplexsans],
+				sans: [...fontFamily.sans],
 				serif: [...fontFamily.serif],
 			},
 			transitionProperty: {
