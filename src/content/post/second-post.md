@@ -2,7 +2,7 @@
 title: "A Pseudo-random world 
 "
 publishDate: "29 September 2023"
-description: "Welcome to untangle randomness"
+description: "Are we really living in a random world or “God doesn’t play dice”?"
 tags: ["example", "blog"]
 ---
 
